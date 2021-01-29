@@ -61,7 +61,7 @@ Abhi jaao cmd me aur ek chhotu sa command type karo
 
 Thodi der ruko aur phir bataayega star wars... mast lagega wo
 
-![Star Wars](star_wars.jpg)
+![Star Wars](star_wars.JPG)
 
 Mast dikh rha hai na?
 
