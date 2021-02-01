@@ -84,7 +84,7 @@ Isse wo unhide hojaayega
 
  # 06 Copying output to clipboard
 
-Jo bhi command likhna chahte ho samajh lo jaise apne directory ka output tumhe clipboard me copy karna hai toh usme __| clip__ kardo jaise...
+Jo bhi command likhna chahte ho samajh lo jaise apne directory ka output tumhe clipboard me copy karna hai toh usme __clip__ add kardo jaise...
 
 ```bash
  dir | clip
